@@ -1,6 +1,6 @@
 # Data Structures
 
-This repo contains coding examples for different data structures
+This repo contains coding examples and sketchnotes for different data structures.
 
 ## Useful links
 
