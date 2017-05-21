@@ -20,3 +20,6 @@ This repo contains coding examples and sketchnotes for different data structures
 - [Graph Traversal - DFS](https://www.cs.usfca.edu/~galles/visualization/DFS.html)
 
 - [Graph Traversal - BFS](https://www.cs.usfca.edu/~galles/visualization/BFS.html)
+
+## Other 
+- [Python Styleguide](https://www.python.org/dev/peps/pep-0008/)
