@@ -23,3 +23,4 @@ This repo contains coding examples and sketchnotes for different data structures
 
 ## Other 
 - [Python Styleguide](https://www.python.org/dev/peps/pep-0008/)
+- [Python Erros and Exceptions](https://docs.python.org/3/tutorial/errors.html)
